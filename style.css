@@ -1,0 +1,18 @@
+/* .card {
+  background: rgb(181, 142, 255);
+  background: radial-gradient(circle, rgba(181, 142, 255, 1) 31%, rgba(175, 0, 255, 1) 72%);
+} */
+
+.card-pv {
+  color: red;
+}
+
+.card-pv img {
+  height: 1rem;
+
+}
+
+.img {
+  border: 7px solid rgb(189, 189, 18);
+  border-radius: 3px;
+}
