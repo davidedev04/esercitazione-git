@@ -1,6 +1,10 @@
 .card {
-  background: rgb(181, 142, 255);
+  border: none;
   background: radial-gradient(circle, rgba(181, 142, 255, 1) 31%, rgba(175, 0, 255, 1) 72%);
+}
+
+.card-body {
+  border: 7px solid rgb(189, 189, 18);
 }
 
 .card-pv {
@@ -31,10 +35,10 @@
 
 }
 
-.color-violet{
-    color: #fff;
+.color-violet {
+  color: #fff;
 }
 
-.size-p{
-    font-size: 12px;
+.size-p {
+  font-size: 12px;
 }
